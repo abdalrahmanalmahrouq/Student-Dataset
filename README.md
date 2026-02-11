@@ -1,2 +1,1 @@
-Regression prediction
-This is my Data-set Assignment About Student information
+A Regression Analysis of Student Information for my Data Science Assignment
